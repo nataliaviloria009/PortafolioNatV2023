@@ -14,7 +14,15 @@
     }
     #hamburger-nav {
       display: flex;
+
+      .logo-pic {
+        display: flex;
+      }
+  
     }
+
+   
+
     #experience,
     .experience-details-container {
       margin-top: 2rem;
